@@ -1,0 +1,14 @@
+D:\VScode_workspace\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.exe
+D:\VScode_workspace\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.deps.json
+D:\VScode_workspace\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.runtimeconfig.json
+D:\VScode_workspace\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.runtimeconfig.dev.json
+D:\VScode_workspace\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.dll
+D:\VScode_workspace\puzzle\puzzle\bin\Debug\netcoreapp3.1\puzzle.pdb
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.csproj.AssemblyReference.cache
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.AssemblyInfoInputs.cache
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.AssemblyInfo.cs
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.csproj.CoreCompileInputs.cache
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.dll
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.pdb
+D:\VScode_workspace\puzzle\puzzle\obj\Debug\netcoreapp3.1\puzzle.genruntimeconfig.cache
